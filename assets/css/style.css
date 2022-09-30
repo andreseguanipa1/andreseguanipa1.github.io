@@ -35,7 +35,7 @@ nav{
 
 .divider {
     background: #fff;
-    width: 15%;
+    width: 25%;
 }
 
 .me {
@@ -137,7 +137,7 @@ footer {
 
 .icons {
     color: #fff;
-    padding: 0% 2% 0% 2%;
+    padding: 0% 4% 0% 4%;
 }
 
 .icon {
@@ -157,7 +157,6 @@ footer {
 .whatsapp:hover {
     color: #25d366;
     cursor: pointer;
-
 }
 
 .gmail:hover {
@@ -167,6 +166,16 @@ footer {
 
 .linkedln:hover {
     color: #006394;
+    cursor: pointer;
+}
+
+.github:hover {
+    color: #696969;
+    cursor: pointer;
+}
+
+.graduate:hover {
+    color: #a8a8a8;
     cursor: pointer;
 }
 
