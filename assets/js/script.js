@@ -2,6 +2,10 @@ window.onload = () => {
     AOS.init();
 }
 
+$('.navbar-nav>li>a').on('click', function () {
+    $('.navbar-collapse').collapse('hide');
+});
+
 var typed = new Typed('#typed', {
     strings: ['Full-Stack Developer | Software Engineer.', 'Desarrollador Full-Stack | Ingeniero en Informática.'],
     showCursor: true,
@@ -175,7 +179,7 @@ cards.forEach(card => card.addEventListener('click', transition));
 
 //////////////////////////////////////////////////////////////////////////////////////// 
 
-function traducirClick (number) {
+function traducirClick(number) {
     let content = document.getElementById(`${number}`).innerHTML;
     let newContent = traducciones[number];
 
@@ -188,7 +192,7 @@ function traducirClick (number) {
     traducciones[traducciones.length - 1] = newTitle;
 }
 
-function traducirOver (number) {
+function traducirOver(number) {
     let content = document.getElementById(`${number}`).innerHTML;
     let newContent = traducciones[number];
 
