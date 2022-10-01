@@ -1,9 +1,20 @@
-.h2, .h4, .p, .ul, .li {
+.h2,
+.h4,
+.ul,
+.li {
   margin: 0;
   padding: 0;
 }
 
-.h2, .h4 {
+.p.center {
+  bottom: 10px;
+  left: 40px;
+  position: absolute;
+}
+
+
+.h2,
+.h4 {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   color: #333333;
@@ -16,7 +27,8 @@
   margin-bottom: 10px;
 }
 
-.p, .li {
+.p,
+.li {
   font-weight: 400;
   line-height: 22px;
   color: #333333;
@@ -29,11 +41,13 @@
   align-items: center;
 }
 
-.ul, .li {
+.ul,
+.li {
   font-size: 100%;
 }
 
-.ul, .li {
+.ul,
+.li {
   text-decoration: none;
   list-style: disc outside;
 }
