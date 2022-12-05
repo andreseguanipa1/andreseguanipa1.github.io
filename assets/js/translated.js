@@ -8,7 +8,7 @@ var traducciones = [
     `Desarrollar una aplicación web de registro y control de cobranza para Lago Mall, alojada en la web.`,
     `Freelancer/Remoto`, //7
     `Base de datos: MySQL`, //8
-    `Droguería Enmanuelle`,
+    `Desarrollador Full Stack`,
     `Desarrollar una aplicación web de registro, control y pago de facturas para Droguería Enmanuelle alojada en la web.`,
     `Freelancer/Remoto`, //11
     `Base de datos: MySQL`, //12
@@ -31,6 +31,7 @@ var traducciones = [
     `Fue desarrollado utilizando:`,
     `En mi tiempo libre me gusta ver series y películas, me gusta mucho Marvel Studios. Además, me gusta viajar, conocer nuevos lugares, nuevas personas y sus costumbres.`,
     `Aspiro en un futuro a conocer ciudades como Roma, París y Venecia.`,
-
-    `Click para traducir`
+    `Click para traducir`,
+    `Desarrollador Full Stack`,
+    `Ingeniero de Desarrollo`
 ]

@@ -46,21 +46,6 @@ var typedExp = new Typed('#experience-typed', {
 
 });
 
-var typedPer = new Typed('#personal-typed', {
-    strings: ['Personal Projects', 'Proyectos Personales'],
-    showCursor: true,
-    cursorChar: '|',
-    autoInsertCss: true,
-    loop: true,
-    loopCount: Infinity,
-    startDelay: 500,
-    backDelay: 3000,
-    typeSpeed: 100,
-    backSpeed: 70,
-
-});
-
-
 var typedPer = new Typed('#skills-typed', {
     strings: ['Skills', 'Habilidades'],
     showCursor: true,
