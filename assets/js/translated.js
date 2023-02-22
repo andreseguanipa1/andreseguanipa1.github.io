@@ -3,7 +3,7 @@ var traducciones = [
     `Apasionado por lo que hago, disfruto aprendiendo cosas nuevas y creando aplicaciones increíbles.`,
     `También soy una persona autodidacta. Constantemente estoy aprendiendo cosas nuevas sobre <b>Programación</b> y <b>Desarrollo Web</b>, con casi dos años de experiencia en esta profesión.`,
     `Aprendo rápido gracias al entusiasmo que tengo por la tecnología.`,
-    `Actualmente estoy trabajando en el cargo de <b>Ingeniero de Desarrollo de Software</b> en la empresa Servieduca (URBE), mi rol específico es en el área de desarrollo Backend utilizando el framework de Java, Spring.`,
+    `Actualmente estoy trabajando en el cargo de <b>Ingeniero de Desarrollo de Software</b> en la empresa Servieduca (URBE).`,
     `Además, considero que la única manera de hacer un gran trabajo es amar lo que haces.`,
     `Desarrollar una aplicación web de registro y control de cobranza para Lago Mall, alojada en la web.`,
     `Freelancer/Remoto`, //7
