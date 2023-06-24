@@ -1,5 +1,5 @@
 var traducciones = [
-    `Soy Ingeniero en Software de la Universidad Rafael Belloso Chacín (URBE) en Maracaibo, Venezuela con muy buenas calificaciones.`,
+    `Soy Ingeniero en Software de la Universidad Rafael Belloso Chacín (URBE) en Maracaibo, Venezuela con muy buenas calificaciones. Actualmente viviendo en la ciudad de West Jordan, Utah, Estados Unidos.`,
     `Apasionado por lo que hago, disfruto aprendiendo cosas nuevas y creando aplicaciones increíbles.`,
     `También soy una persona autodidacta. Constantemente estoy aprendiendo cosas nuevas sobre <b>Programación</b> y <b>Desarrollo Web</b>, con casi dos años de experiencia en esta profesión.`,
     `Aprendo rápido gracias al entusiasmo que tengo por la tecnología.`,
